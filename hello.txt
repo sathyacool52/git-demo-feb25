@@ -1,5 +1,5 @@
  i am from line one
 adding second line
-adding third line
-adding foutrh line
+ 3rd lne 
+ 4th line
 
